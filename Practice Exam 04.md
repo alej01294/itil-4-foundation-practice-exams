@@ -207,7 +207,7 @@ B. Monitoring and event management
 C. Change control  
 D. Information security management  
 
-<details><summary>Answer</summary>D</details>
+<details><summary>Answer</summary>B</details>
 
 ### Question 20
 
