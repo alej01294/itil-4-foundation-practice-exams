@@ -53,7 +53,7 @@ B. Value streams and processes
 C. Information and technology  
 D. Partners and suppliers  
 
-<details><summary>Answer</summary>A</details>
+<details><summary>Answer</summary>C</details>
 
 ### Question 6
 
